@@ -321,6 +321,7 @@ _Links to various users of Home Assistant that regularly publish Home Assistant 
 - [Tinkering with Home Automation](https://blog.ceard.tech/) - Tinkerer's blog and guides.
 - [HomeTechHacker](https://HomeTechHacker.com) - DIY Smarthome guides, reviews, and advice.
 - [Intermittent Technology](https://blog.quindorian.org) - Quindor's personal blog for pasting random (mostly technology related) things.
+- [Smart Home Pursuits](https://smarthomepursuits.com/category/smart-home/home-assistant/) - Features many step-by-step smarthome guides & tutorials.
 
 ### YouTube Channels
 
